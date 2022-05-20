@@ -7,7 +7,7 @@ let nextLetter = 0;
 let rightGuessString = Jojos[Math.floor(Math.random() * Jojos.length)]
 
 console.log(Date())
-console.log(rightGuessString)
+//console.log(rightGuessString)
 
 function initBoard() {
     let board = document.getElementById("game-board");
