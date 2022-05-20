@@ -6,7 +6,7 @@ h1 {
 .background {
 	background-position: 0 0, center;
 	background-image: url('collage.jpg');
-	opacity: 0.5;
+	opacity: 1;
 }
 .center {
   display: block;
