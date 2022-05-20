@@ -6,7 +6,6 @@ h1 {
 .background {
 	background-position: 0 0, center;
 	background-image: url('collage.jpg');
-	opacity: 1;
 }
 .center {
   display: block;
@@ -18,7 +17,6 @@ h1 {
 
 #game-board {
 	display: flex;
-	opacity: 1;
 	align-items: center;
 	flex-direction: column;
 	z-index:9;
