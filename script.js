@@ -196,3 +196,6 @@ document.getElementById("keyboard-cont").addEventListener("click", (e) => {
 })
 
 initBoard();
+
+//changelog
+//removed p1 limit
