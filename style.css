@@ -9,6 +9,9 @@ h1 {
   margin-right: auto;
   width: 10%;
 }
+.background {
+	background-image: "collage.jpg";
+}
 #game-board {
 	display: flex;
 	align-items: center;
