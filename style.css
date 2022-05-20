@@ -3,8 +3,7 @@ h1 {
   align-items: center;
   z-index:9;
 }
-#background {
-	background-image: url('collage.jpg');
+.background {
 	background-position: 0 0, center;
 	opacity: 0.5;
 }
