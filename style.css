@@ -12,6 +12,7 @@ h1 {
 }
 #background-img {
 	background-image: url(https://i.imgur.com/rNkRwbC.jpeg);
+	height: 100%;
 }
 
 #game-board {
