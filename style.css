@@ -10,6 +10,9 @@ h1 {
   z-index:9;
   width: 10%;
 }
+#background-img {
+	background-image: url(https://i.redd.it/wk1qfqlg2cq71.jpg);
+}
 
 #game-board {
 	display: flex;
