@@ -6,7 +6,7 @@ let currentGuess = [];
 let nextLetter = 0;
 let rightGuessString = Jojos[Math.floor(Math.random() * Jojos.length)]
 
-console.log(Date())
+console.log(Date.prototype.getUTCDate())
 //console.log(rightGuessString)
 
 function initBoard() {
@@ -25,6 +25,10 @@ function initBoard() {
         board.appendChild(row)
     }
 }
+
+//function dateRoller() {
+  //  let dateNum
+//}
 
 function shadeKeyBoard(letter, color) {
     for (const elem of document.getElementsByClassName("keyboard-button")) {
