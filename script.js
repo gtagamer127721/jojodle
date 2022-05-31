@@ -5,10 +5,8 @@ let guessesRemaining = NUMBER_OF_GUESSES;
 let currentGuess = [];
 let nextLetter = 0;
 let rightGuessString = Jojos[Math.floor(Math.random() * Jojos.length)]
-
 //console.log(Date.prototype.getUTCDate())
 //console.log(rightGuessString)
-
 function initBoard() {
     let board = document.getElementById("game-board");
 
